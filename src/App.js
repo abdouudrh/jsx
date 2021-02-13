@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './style.css';
 import imageInSrc from './imageInSrc.jpg'
 
